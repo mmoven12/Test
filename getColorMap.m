@@ -19,8 +19,10 @@ function ColorMap = getColorMap()
        [64,64,0],'dresser';...      %16 
        [0,64,128],'sofa';...        %17
        [64,0,128],'computer';...;   %18         
-       [128,0,128],'teatable';...;  %19        
+       [128,0,128],'teatable';...;  %19 
+       [255,0,255],'test';...;  %23        
        [128,128,0],'sofabed';};     %20   
+
 % ColorMap = [%255,255,255; ...% 0 background
 %        0,0,64; ...          % 1 bed
 %        0,64,0;...           % 2 night table

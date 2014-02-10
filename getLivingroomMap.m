@@ -13,7 +13,9 @@ ColorMap = {%255,255,255; ...% 0 background
     'lampcabinet'   0,0,192;...           % 11 lamp cabinet  
     'doorwindow', 	0,192,0;...           % 12 doorwindow 
     'curtain',      192,0,0;...           % 13 plant 
-    'ceiling', 	    64,64,64;...          % 14 ceiling 
+    'ceiling',      64,64,64;...          % 14 ceiling 
+    'floor',        128,128,128;...       % 15 floor 
+    'wall',         192,192,192};...      % 16 wall     'ceiling',      64,64,64;...          % 14 ceiling 
     'floor',        128,128,128;...       % 15 floor 
     'wall',         192,192,192};...      % 16 wall 
 end
